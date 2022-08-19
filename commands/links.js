@@ -12,7 +12,8 @@ module.exports = new Command({
                 embed.setColor('#44b868');
                 embed.setDescription(`**Links:**\n
                 Want to contribute?
-                https://github.com/nizeic/Dodong
+                https://github.com/GhostieSpook/Mi-a-Music
+                Want to invite? Ask GhostieSpook#0690
                 Online Web Player
                 ${process.env.WEBPLAYER || config.webplayer}?guildID=${message.guild.id}\n`);
                 
