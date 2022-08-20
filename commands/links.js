@@ -11,7 +11,7 @@ module.exports = new Command({
                 const embed = new EmbedBuilder();
                 embed.setColor('#44b868');
                 embed.setDescription(`**Links:**\n
-                Want to contribute?
+                Want to contribute? Feel free.
                 https://github.com/GhostieSpook/Mi-a-Music
                 Want to invite? Ask GhostieSpook#0690
                 Fork of nizewns Dodong music bot.
