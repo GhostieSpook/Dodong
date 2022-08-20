@@ -14,6 +14,7 @@ module.exports = new Command({
                 Want to contribute?
                 https://github.com/GhostieSpook/Mi-a-Music
                 Want to invite? Ask GhostieSpook#0690
+                Fork of nizewns Dodong music bot.
                 Online Web Player
                 ${process.env.WEBPLAYER || config.webplayer}?guildID=${message.guild.id}\n`);
                 
